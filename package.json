@@ -1,0 +1,25 @@
+{
+  "name": "yield-server",
+  "version": "1.0.0",
+  "description": "Yield Server - Web server module for Yield CMS",
+  "main": "index.js",
+  "scripts": {
+    "test": "node ./test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yield-cms/yield-server.git"
+  },
+  "keywords": [
+    "yield",
+    "cms",
+    "server",
+    "middleware"
+  ],
+  "author": "Alexander Sychev",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/yield-cms/yield-server/issues"
+  },
+  "homepage": "https://github.com/yield-cms/yield-server#readme"
+}
